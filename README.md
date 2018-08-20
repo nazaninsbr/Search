@@ -5,4 +5,5 @@ the following search algorithms have been implemented in C. <br>
 	<li>Linear Search</li>
 	<li>Binary Search</li>
 	<li>Jump Search</li>
+	<li>Interpolation Search</li>
 </ul>
